@@ -1,0 +1,9 @@
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\bin\Debug\BLLayer.dll
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\bin\Debug\BLLayer.pdb
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\bin\Debug\DALayer.dll
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\bin\Debug\ObjectLibrary.dll
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\bin\Debug\DALayer.pdb
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\bin\Debug\ObjectLibrary.pdb
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\obj\Debug\BLLayer.csprojResolveAssemblyReference.cache
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\obj\Debug\BLLayer.dll
+c:\users\ab.user\documents\visual studio 2015\Projects\UserLoginSystemWithSP\BLLayer\obj\Debug\BLLayer.pdb
